@@ -1,6 +1,6 @@
 # **Gusture-recognition**
 
-手势识别
+手势识别python实现
 
 本项目识别的是红手套，可以根据识别对象修改HSV范围
 

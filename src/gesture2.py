@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+#Gesture-recognition-v3
+#Author: Kechun Xu
+#aimed to solve the problem of v2 but it still exists bugs
+
 import cv2 as cv
 import numpy as np 
 from matplotlib import pyplot as plt

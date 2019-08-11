@@ -1,4 +1,4 @@
-# **Gusture-recognition**
+# **Gesture-recognition**
 
 手势识别python实现
 

@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+#Gesture-recognition-v1
+#Author:Kechun Xu
+#improved algorithm 1
+
 import cv2 as cv
 import cv2
 import numpy as np 

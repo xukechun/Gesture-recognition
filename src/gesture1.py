@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+#Gesture-recognition-v2
+#Author: Kechun Xu
+#improved accuracy of the former version
+
 import cv2 as cv
 import numpy as np 
 from matplotlib import pyplot as plt
